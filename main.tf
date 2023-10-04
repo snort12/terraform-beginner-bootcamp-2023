@@ -7,6 +7,7 @@ terraform {
     }
   }
 
+
   required_providers {
     aws = {
       source  = "hashicorp/aws"
@@ -15,6 +16,7 @@ terraform {
     terratowns = {
       source = "local.providers/local/terratowns"
       version = "1.0.0"
+    }
   }
 }
 
