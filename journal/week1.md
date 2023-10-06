@@ -1,5 +1,8 @@
 # Terraform Beginner Bootcamp 2023 - Week 1
 
+![diagram-week1](https://github.com/snort12/terraform-beginner-bootcamp-2023/assets/118768699/641e0714-f76c-4b28-8e45-d1d9b29c7f6a)
+
+
 - [Fixing Tags](#fixing-tags)
 - [Root Module Structure](#root-module-structure)
 - [Terraform and Input Variables](#terraform-and-input-variables)
