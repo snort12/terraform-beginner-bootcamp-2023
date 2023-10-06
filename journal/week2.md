@@ -2,17 +2,6 @@
 
 ![diagram-week2](https://github.com/snort12/terraform-beginner-bootcamp-2023/assets/118768699/c1da5fb8-7767-4f68-afe0-36d724f230f6)
 
-- [Terraform Beginner Bootcamp 2023 - Week 2](#terraform-beginner-bootcamp-2023---week-2)
-  * [Working with Ruby](#working-with-ruby)
-    + [Bundler](#bundler)
-      - [Install Gems](#install-gems)
-      - [Executing ruby scripts in the context of bundler](#executing-ruby-scripts-in-the-context-of-bundler)
-    + [Sinatra](#sinatra)
-  * [Terratowns Mock Server](#terratowns-mock-server)
-    + [Running the web server](#running-the-web-server)
-  * [CRUD](#crud)
-
-
 ## Working with Ruby
 
 ### Bundler
