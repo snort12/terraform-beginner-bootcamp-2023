@@ -2,7 +2,6 @@
 
 ![diagram-week2](https://github.com/snort12/terraform-beginner-bootcamp-2023/assets/118768699/c1da5fb8-7767-4f68-afe0-36d724f230f6)
 
-
 ## Working with Ruby
 
 ### Bundler

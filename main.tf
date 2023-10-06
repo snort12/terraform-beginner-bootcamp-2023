@@ -41,7 +41,7 @@ resource "terratowns_home" "home-masuria" {
 Explore the breathtaking lakes, lush forests, and charming villages that make up the Masurian area.
 DESCRIPTION
   domain_name     = module.home_masuria_hosting.cloudfront_url
-  town            = "missingo"
+  town            = "the-nomad-pad"
   content_version = var.masuria.content_version
 }
 
@@ -58,6 +58,6 @@ resource "terratowns_home" "home-heroes" {
 Try this one!!! "Heroes of Might and Magic" is a beloved turn-based strategy game
 DESCRIPTION
   domain_name     = module.home_heroes_hosting.cloudfront_url
-  town            = "missingo"
+  town            = "gamers-grotto"
   content_version = var.heroes.content_version
 }
